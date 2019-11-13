@@ -1,0 +1,7 @@
+﻿  Lab3.c
+c:\users\김예원\source\repos\자료구조실습4_10\자료구조실습4_10\lab3.c(202): warning C4133: '함수': 'listNode *'과(와) 'headNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\김예원\source\repos\자료구조실습4_10\자료구조실습4_10\lab3.c(209): warning C4133: '함수': 'listNode *'과(와) 'headNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\김예원\source\repos\자료구조실습4_10\자료구조실습4_10\lab3.c(222): warning C4133: '함수': 'listNode *'과(와) 'headNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\김예원\source\repos\자료구조실습4_10\자료구조실습4_10\lab3.c(251): warning C4133: '=': 'Node *'과(와) 'headNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\김예원\source\repos\자료구조실습4_10\자료구조실습4_10\lab3.c(252): warning C4133: '=': 'headNode *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+  자료구조실습4_10.vcxproj -> C:\Users\김예원\source\repos\자료구조실습4_10\Debug\자료구조실습4_10.exe
